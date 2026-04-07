@@ -34,6 +34,10 @@ let posts=[
 
 ];
 
+app.get("/", (req, res) => {
+    res.redirect("/posts");
+});
+
 // app.get("/home",(req,res)=>{
 //     res.send("Hello World");
 // });
