@@ -1,6 +1,6 @@
-# Quora-Clone (Basic CRUD)
+# AskForge (Basic CRUD)
 
-# link- https://quora-crud-app-1.onrender.com 
+# link- https://askforge-crud-app.onrender.com
 
 A simple, lightweight web application built to demonstrate CRUD (Create, Read, Update, Delete) operations. This project allows users to post thoughts anonymously, assign a unique identifier to each post, and manage content through a clean interface.
 🚀 Features
