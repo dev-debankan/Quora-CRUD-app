@@ -35,7 +35,7 @@ let posts=[
 ];
 
 app.get("/", (req, res) => {
-    res.redirect("/posts");
+  res.redirect("/posts");
 });
 
 // app.get("/home",(req,res)=>{
